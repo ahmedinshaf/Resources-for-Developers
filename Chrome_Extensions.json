@@ -1,0 +1,162 @@
+[
+  {
+    "name": "WhatFont",
+    "url": "https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm",
+    "desc": "The easiest way to identify fonts on web pages."
+  },
+  {
+    "name": "WhatRuns",
+    "url": "https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=en",
+    "desc": "Discover what runs a website. Frameworks, Analytics Tools, Wordpress Plugins, Fonts - you name it."
+  },
+  {
+    "name": "Web Developer",
+    "url": "https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm",
+    "desc": "Adds a toolbar button with various web developer tools."
+  },
+  {
+    "name": "Awesome Screenshot & Screen Recorder",
+    "url": "https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en",
+    "desc": "Full page screen capture and screen recorder - 2 in 1. Share screencast video instantly"
+  },
+  {
+    "name": "daily.dev - News for Busy Developers",
+    "url": "https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied",
+    "desc": "Get programming news with zero effort. Simply open a new tab, and you’re all set. A must-have tool for busy developers!"
+  },
+  {
+    "name": "JSONView",
+    "url": "https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en",
+    "desc": "Validate and view JSON documents."
+  },
+  {
+    "name": "JSON Lite",
+    "url": "https://github.com/lauriro/json-lite",
+    "desc": "Browser extension for viewing JSON files."
+  },
+  {
+    "name": "Window Resizer",
+    "url": "https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en",
+    "desc": "Resize the browser window to emulate various screen resolutions."
+  },
+  {
+    "name": "Responsive Viewer",
+    "url": "https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en",
+    "desc": "Show multiple screens once, Responsive design tester"
+  },
+  {
+    "name": "BrowserStack",
+    "url": "https://chrome.google.com/webstore/detail/browserstack/nkihdmlheodkdfojglpcjjmioefjahjb?hl=en",
+    "desc": "Instantly test your webpage on any desktop or mobile browser."
+  },
+  {
+    "name": "VisBug",
+    "url": "https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en",
+    "desc": "Open source web design debug tool built with JavaScript"
+  },
+  {
+    "name": "Keyframes",
+    "url": "https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck?hl=en",
+    "desc": "In-browser CSS Animation creator."
+  },
+  {
+    "name": "Kontrast - WCAG Contrast Checker",
+    "url": "https://chrome.google.com/webstore/detail/kontrast-wcag-contrast-ch/haphaaenepedkjngghandlmhfillnhjk?hl=en",
+    "desc": "Quickly check and adjust contrast in real-time in your browser to meet WCAG 2.1 requirements"
+  },
+  {
+    "name": "PerfectPixel",
+    "url": "https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi",
+    "desc": "Adds a semi-transparent image overlay over the top of the developed HTML to easily perform pixel perfect comparison between them, useful for replicating UI designs."
+  },
+  {
+    "name": "Pesticide",
+    "url": "https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh",
+    "desc": "Inserts the Pesticide CSS into the current page, outlining each HTML element to better see placement on the page, helpful for building layouts."
+  },
+  {
+    "name": "Site Palette",
+    "url": "https://chrome.google.com/webstore/detail/site-palette/pekhihjiehdafocefoimckjpbkegknoh",
+    "desc": "A must-have tool for designers and frontend developers to grab colors for any website."
+  },
+  {
+    "name": "Mobile/Responsive Web Design Tester",
+    "url": "https://chrome.google.com/webstore/detail/mobileresponsive-web-desi/elmekokodcohlommfikpmojheggnbelo",
+    "desc": "Test responsive web designs or mobile pages that detect specific user agents. Test multiple devices at the same time!"
+  },
+  {
+    "name": "ColorZilla",
+    "url": "https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp",
+    "desc": "Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies"
+  },
+  {
+    "name": "Lorem Ipsum Generator (Default Text)",
+    "url": "https://chrome.google.com/webstore/detail/lorem-ipsum-generator-def/mcdcbjjoakogbcopinefncmkcamnfkdb?hl=en%20",
+    "desc": "Provides an elegant and quick way to create default text or generate Lorem Ipsum. Optimized for quick usage, but it can be customized."
+  },
+  {
+    "name": "JavaScript and CSS Code Beautifier",
+    "url": "https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en",
+    "desc": "Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file"
+  },
+  {
+    "name": "Imageye - Image downloader",
+    "url": "https://chrome.google.com/webstore/detail/imageye-image-downloader/agionbommeaifngbhincahgmoflcikhm",
+    "desc": "Find and download all images on a web page. With Imageye you can find, browse and download all the images present in a web page."
+  },
+  {
+    "name": "GoFullPage - Full Page Screen Capture",
+    "url": "https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl",
+    "desc": "Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!"
+  },
+  {
+    "name": "Stylebot",
+    "url": "https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha",
+    "desc": "Change the appearance of the web instantly."
+  },
+  {
+    "name": "ColorPick Eyedropper",
+    "url": "https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg",
+    "desc": "A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more."
+  },
+  {
+    "name": "React Developer Tool",
+    "url": "https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi",
+    "desc": "React debugging tools to the Chrome Developer Tools. It allows you to inspect the React component hierarchies in the Chrome Developer Tools."
+  },
+  {
+    "name": "Wappalyzer",
+    "url": "https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg",
+    "desc": "Wappalyzer is a technology profiler that shows you what websites are built with."
+  },
+  {
+    "name": "Fake Filler",
+    "url": "https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo",
+    "desc": "Fake Filler a form filler that fills all inputs on a page with fake/dummy data."
+  },
+  {
+    "name": "Page Ruler Redux",
+    "url": "https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal",
+    "desc": "A Web Developer\\Designer ruler to get perfect pixel dimensions and positioning to measure elements on any web page."
+  },
+  {
+    "name": "Web Editor",
+    "url": "https://chrome.google.com/webstore/detail/web-editor/pdmlhckofhkhebmcplblcijijgjiakcm",
+    "desc": "The web editor is the tool that provides you with an enhanced way to inspect any website elements, alter their properties, insert contents, design, and visualize the way you want to see them."
+  },
+  {
+    "name": "CSSViewer",
+    "url": "https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce",
+    "desc": "A simple CSS property viewer."
+  },
+  {
+    "name": "Fonts Ninja",
+    "url": "https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh",
+    "desc": "Identify fonts from any website, bookmark, try, and buy them."
+  },
+  {
+    "name": "Lighthouse",
+    "url": "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk",
+    "desc": "An open-source, automated tool for improving the performance, quality, and correctness of your web apps."
+  }
+]

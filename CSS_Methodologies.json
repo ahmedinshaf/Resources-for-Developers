@@ -1,0 +1,22 @@
+[
+  {
+    "name": "OOCSS",
+    "url": "http://oocss.org/",
+    "desc": "OOCSS concepts help us write components that are flexible, modular and interchangeable."
+  },
+  {
+    "name": "Atomic CSS",
+    "url": "https://acss.io/",
+    "desc": "Atomic CSS is the approach to CSS architecture that favors small, single-purpose classes with names based on visual function."
+  },
+  {
+    "name": "BEM",
+    "url": "http://getbem.com/",
+    "desc": "Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development."
+  },
+  {
+    "name": "SMACSS",
+    "url": "http://smacss.com/",
+    "desc": "SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process."
+  }
+]

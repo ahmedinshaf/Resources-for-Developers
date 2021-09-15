@@ -1,0 +1,92 @@
+[
+  {
+    "name": "TinyPNG",
+    "url": "https://tinypng.com/",
+    "desc": "Smart PNG and JPEG compression"
+  },
+  {
+    "name": "Optimizilla",
+    "url": "https://imagecompressor.com/",
+    "desc": "Online JPEG and PNG optimizer / compressor with settings and archive download"
+  },
+  {
+    "name": "Compressor.io",
+    "url": "https://compressor.io/",
+    "desc": "JPEG, PNG, GIF, SVG Compression"
+  },
+  {
+    "name": "Squoosh.app",
+    "url": "https://squoosh.app/",
+    "desc": "Image compression from Google Chrome Labs"
+  },
+  {
+    "name": "BulkResizePhotos",
+    "url": "https://bulkresizephotos.com/",
+    "desc": "Bulk image resizing, compression & converting that perform all the tasks within the browser (It works offline)"
+  },
+  {
+    "name": "iLoveIMG",
+    "url": "https://www.iloveimg.com/",
+    "desc": "The fastest free web app for easy image modification"
+  },
+  {
+    "name": "SvgOMG",
+    "url": "https://jakearchibald.github.io/svgomg/",
+    "desc": "Online SVG optimizer with a lot of settings and possibility to cut and paste svg code directly in it."
+  },
+  {
+    "name": "CompressJPEG",
+    "url": "https://compressjpeg.com/",
+    "desc": "Compress JPEG images with size even greater than 5MB"
+  },
+  {
+    "name": "CompressNow",
+    "url": "https://compressnow.com/",
+    "desc": "JPEG, GIF, PNG Compression"
+  },
+  {
+    "name": "Promo Image Resizer",
+    "url": "https://promo.com/tools/image-resizer/",
+    "desc": "Free Image and Photo Resizer"
+  },
+  {
+    "name": "Image Optimizer",
+    "url": "http://www.imageoptimizer.net/",
+    "desc": "Image Optimizer Free With Quality Options"
+  },
+  {
+    "name": "SVGminify",
+    "url": "https://www.svgminify.com/",
+    "desc": "This tool removes superfluous information, thereby reducing the size of your SVG files"
+  },
+  {
+    "name": "JPEG Optimizer",
+    "url": "http://jpeg-optimizer.com/",
+    "desc": "Free online tool for resizing and compressing digital photos and images for displaying on the web"
+  },
+  {
+    "name": "Resizing.app",
+    "url": "https://resizing.app/",
+    "desc": "Resize Your Images Online"
+  },
+  {
+    "name": "EZGif",
+    "url": "https://ezgif.com/",
+    "desc": "Animated GIF maker and Image editor including Image optimization and supports WebP conversion"
+  },
+  {
+    "name": "OnlinePngtools",
+    "url": "https://onlinepngtools.com/resize-png",
+    "desc": "Resize png for without losing transparent background."
+  },
+  {
+    "name": "Verexif",
+    "url": "https://www.verexif.com/en/",
+    "desc": "Remove meta tags in image in order to reduce image size and increase privacy security"
+  },
+  {
+    "name": "Vecta Nano",
+    "url": "https://vecta.io/nano",
+    "desc": "Uses lossless compression to compress inefficient SVG codes by removing unnecessary data. (Free & Paid)"
+  }
+]

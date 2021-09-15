@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/graphic-design-tool/",
+    "desc": "Online graphic design tool (Free & paid options)"
+  },
+  {
+    "name": "Vectr",
+    "url": "https://vectr.com/",
+    "desc": "Free vector graphics software"
+  },
+  {
+    "name": "Taler",
+    "url": "https://www.taler.app/",
+    "desc": "Create social media banner designs in minutes from hundreds of customizable templates"
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/",
+    "desc": "Create beautiful designs (Free & Paid)"
+  },
+  {
+    "name": "Get Waves",
+    "url": "https://getwaves.io/",
+    "desc": "A free SVG wave generator to make unique SVG waves for web design"
+  },
+  {
+    "name": "Clippy",
+    "url": "https://bennettfeely.com/clippy/",
+    "desc": "Easy CSS clip-path maker"
+  },
+  {
+    "name": "Fancy Border Radius",
+    "url": "https://9elements.github.io/fancy-border-radius/full-control.html",
+    "desc": "Eight values specifying border-radius in CSS ( border-radius generator )"
+  },
+  {
+    "name": "Wireframe.cc",
+    "url": "https://wireframe.cc/",
+    "desc": "Wireframing tool (free & paid)"
+  },
+  {
+    "name": "Fotor",
+    "url": "https://www.fotor.com/",
+    "desc": "Photo editor and design maker"
+  },
+  {
+    "name": "Pixlr",
+    "url": "https://www.pixlr.com/",
+    "desc": "Online photo editor"
+  },
+  {
+    "name": "Animoto Video Maker",
+    "url": "https://animoto.com/apps/online-video-maker",
+    "desc": "Make videos online"
+  },
+  {
+    "name": "RemoveBG",
+    "url": "https://www.remove.bg/",
+    "desc": "Remove image backgrounds"
+  },
+  {
+    "name": "Photo Creator",
+    "url": "https://photos.icons8.com/creator",
+    "desc": "Create your own photos instead of searching for stock"
+  },
+  {
+    "name": "Visme",
+    "url": "https://www.visme.co/",
+    "desc": "Create presentations, infographics and more"
+  },
+  {
+    "name": "Infogram",
+    "url": "https://infogram.com/",
+    "desc": "Create infograms"
+  },
+  {
+    "name": "ChartGo",
+    "url": "https://www.chartgo.com/",
+    "desc": "Create charts and graphs online"
+  },
+  {
+    "name": "Cartoon Photo",
+    "url": "https://cartoon.pho.to/",
+    "desc": "Turn photos into cartoons"
+  },
+  {
+    "name": "Whimsical",
+    "url": "https://whimsical.com/",
+    "desc": "Wireframes, diagrams and more (4 free)"
+  },
+  {
+    "name": "Whiteboard",
+    "url": "https://witeboard.com/",
+    "desc": "Online drawing tool"
+  },
+  {"name": "Octopus", "url": "https://octopus.do/", "desc": "Sitemap builder"},
+  {
+    "name": "CTA Button Maker",
+    "url": "https://www.clickminded.com/button-generator/",
+    "desc": "Create call to action buttons"
+  },
+  {
+    "name": "Blobmaker",
+    "url": "https://www.blobmaker.app/",
+    "desc": "Blobmaker is a free generative design tool, to help you quickly create random, unique, and organic-looking SVG shapes."
+  },
+  {
+    "name": "Personas",
+    "url": "https://personas.draftbit.com/",
+    "desc": "A playful avatar generator for the modern age"
+  },
+  {
+    "name": "SoftUI",
+    "url": "https://www.softui.io/",
+    "desc": "A Soft UI (neumorphism) CSS generator"
+  },
+  {
+    "name": "Photopea",
+    "url": "https://www.photopea.com/",
+    "desc": "An Online Photoshop editor"
+  },
+  {
+    "name": "Excalidraw",
+    "url": "https://excalidraw.com/",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams"
+  },
+  {
+    "name": "Diagrams",
+    "url": "https://www.diagrams.net/",
+    "desc": "Diagram software and Flowchart maker"
+  },
+  {
+    "name": "MapInSeconds",
+    "url": "http://mapinseconds.com/",
+    "desc": "Simple way to visualize your data with a map"
+  },
+  {
+    "name": "Grid Malven",
+    "url": "http://grid.malven.co/",
+    "desc": "A css grid cheatsheet to reference when creating a css grid"
+  },
+  {
+    "name": "Flex Malven",
+    "url": "http://flexbox.malven.co/",
+    "desc": "A flexbox grid cheatsheet to reference when working with flexbox"
+  },
+  {
+    "name": "Smart Upscaler",
+    "url": "https://icons8.com/upscaler",
+    "desc": "Upscale images by 2-4x resolution"
+  },
+  {
+    "name": "GetAvataaars",
+    "url": "https://getavataaars.com/",
+    "desc": "Fun and Colorful free avatars web generator tool by Fang-Pen Lin using Pablo Stanley sketch library"
+  },
+  {
+    "name": "Big Heads",
+    "url": "https://github.com/RobertBroersma/bigheads",
+    "desc": "Easily generate avatars for your projects with Big Heads by Robert Broersma."
+  },
+  {
+    "name": "Webflow",
+    "url": "https://webflow.com/",
+    "desc": "Break the code barrier, Build better business websites, faster. Without coding."
+  },
+  {
+    "name": "Trace",
+    "url": "https://stickermule.com/trace",
+    "desc": "Instantly remove the background from your photos"
+  },
+  {
+    "name": "Neumorphism.io",
+    "url": "https://neumorphism.io/#55b9f3",
+    "desc": "Generate Soft-UI CSS shadow code"
+  },
+  {
+    "name": "DB Designer",
+    "url": "https://app.dbdesigner.net/",
+    "desc": "Design your database for free online"
+  },
+  {
+    "name": "Ui Bakery",
+    "url": "https://uibakery.io/",
+    "desc": "Create full-fledged web apps visually"
+  },
+  {
+    "name": "Faux",
+    "url": "http://knutsynstad.com/fauxcode/",
+    "desc": "Turn real code into faux code"
+  },
+  {
+    "name": "Rive",
+    "url": "https://rive.app/",
+    "desc": "Real-time interactive design tool that allows you to design, animate, and immediately integrate your assets into any platform."
+  },
+  {
+    "name": "Unscreen",
+    "url": "https://www.unscreen.com/",
+    "desc": "Remove Video Background 100% Automatically and Free"
+  },
+  {
+    "name": "Kodeshot",
+    "url": "https://www.kodeshot.net/",
+    "desc": "Convert your source code into nice pictures for your articles, tweets, messages, posts..."
+  },
+  {
+    "name": "Wix",
+    "url": "https://www.wix.com/",
+    "desc": "Create a Website You’re Proud Of"
+  },
+  {
+    "name": "GTmetrix",
+    "url": "https://gtmetrix.com/",
+    "desc": "Website Speed and Performance Optimization"
+  },
+  {
+    "name": "Framer",
+    "url": "https://www.framer.com/",
+    "desc": "Is prototyping tool for teams"
+  },
+  {
+    "name": "Draw.io",
+    "url": "https://www.draw.io/",
+    "desc": "Free online diagram editor tool"
+  },
+  {
+    "name": "UXWing SVG Editor",
+    "url": "https://uxwing.com/svg-icon-editor",
+    "desc": "Creating and Edit SVG Online"
+  },
+  {
+    "name": "CSS Arrow",
+    "url": "http://www.cssarrowplease.com/",
+    "desc": "Create and export CSS code for a custom box with an arrow extending out from the side. Great for tooltips, flyouts and the like."
+  },
+  {
+    "name": "Lucidchart",
+    "url": "https://www.lucidchart.com/pages/",
+    "desc": "Diagramming and visualization tools that allows creating databases, flowcharts, boards, floor-maps, and much more. 3 multi-page documents on the free tier"
+  },
+  {
+    "name": "Carbon",
+    "url": "https://carbon.now.sh/",
+    "desc": "Create and share beautiful images of your source code by typing or drop a file."
+  }
+]

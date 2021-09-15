@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Material Design",
+    "url": "https://material.io/",
+    "desc": "Google's Material Design"
+  },
+  {
+    "name": "Ant Design",
+    "url": "https://ant.design/",
+    "desc": "Design system for enterprise-level products"
+  },
+  {
+    "name": "Apple Design Resources",
+    "url": "https://developer.apple.com/design/resources/",
+    "desc": "Guides and templates for using Apple design and UI"
+  },
+  {
+    "name": "Primer",
+    "url": "https://primer.style/",
+    "desc": "Design, build, and create with GitHub’s design system"
+  },
+  {
+    "name": "Alta UI",
+    "url": "https://www.oracle.com/webfolder/ux/middleware/alta/index.html",
+    "desc": "Oracle's design system and toolkit"
+  },
+  {
+    "name": "Pulse",
+    "url": "https://pulse.heartbeat.ua/",
+    "desc": "Design system, guides and React component library"
+  },
+  {
+    "name": "Bolt",
+    "url": "https://boltdesignsystem.com/",
+    "desc": "Robust Twig and web component powered UI components"
+  },
+  {
+    "name": "Clarity Design System",
+    "url": "https://clarity.design/",
+    "desc": "UX guidelines, HTML/CSS framework, and Angular components"
+  },
+  {
+    "name": "AtlasKit",
+    "url": "https://atlaskit.atlassian.com/",
+    "desc": "Atlassian's official UI library, built according to the Atlassian Design Guidelines"
+  },
+  {
+    "name": "Audi Design Resources",
+    "url": "https://www.audi.com/ci/en/guides/user-interface/introduction.html",
+    "desc": "Audi UI design system and toolkit"
+  },
+  {
+    "name": "Carbon Design Systems",
+    "url": "https://www.carbondesignsystem.com/",
+    "desc": "Carbon is IBM’s open-source design system for products and experiences"
+  },
+  {
+    "name": "Yelp Style Guide",
+    "url": "https://www.yelp.com/styleguide",
+    "desc": "Yelp style guide, components and toolkit"
+  },
+  {
+    "name": "Comet",
+    "url": "https://comet.discoveryeducation.com/",
+    "desc": "Scalable design system of visual language, components, and design assets"
+  },
+  {
+    "name": "ETrade Design System",
+    "url": "https://etrade.design/",
+    "desc": "Guides and toolkits that blend finance with simplicity and ease of use"
+  },
+  {
+    "name": "Fundamental Library",
+    "url": "https://sap.github.io/fundamental-styles/",
+    "desc": "Open source and community driven project for consistent user interfaces"
+  },
+  {
+    "name": "Infor Design",
+    "url": "https://design.infor.com/",
+    "desc": "Guidelines and resources to create meaningful experiences for Infor’s products"
+  },
+  {
+    "name": "Lexicon",
+    "url": "https://liferay.design/lexicon/",
+    "desc": "An experience language for crafting beautiful UI"
+  },
+  {
+    "name": "Mailchimp UI/UX",
+    "url": "https://ux.mailchimp.com/patterns/color",
+    "desc": "Style guide and components from Mailchimp"
+  },
+  {
+    "name": "Marvel Style Guide",
+    "url": "https://marvelapp.com/styleguide/overview/introduction",
+    "desc": "Set of design principles and components"
+  },
+  {
+    "name": "Microsoft Fluent UI",
+    "url": "https://developer.microsoft.com/en-us/fluentui#/",
+    "desc": "Collection of UX frameworks from Microsoft"
+  },
+  {
+    "name": "Pluralsight Design System",
+    "url": "https://design-system.pluralsight.com/",
+    "desc": "Design guide with components for designing with Pluralsight"
+  },
+  {
+    "name": "Polaris",
+    "url": "https://polaris.shopify.com/",
+    "desc": "Design system that creates great experiences for all of Shopify’s merchants"
+  },
+  {
+    "name": "Mozilla Protocol",
+    "url": "https://protocol.mozilla.org/",
+    "desc": "Protocol is a design system for Mozilla and Firefox websites"
+  },
+  {
+    "name": "SendGrid Style Guide",
+    "url": "http://styleguide.sendgrid.com/",
+    "desc": "UI library for developing consistent UI/UX at SendGrid"
+  },
+  {
+    "name": "VTEX Styleguide",
+    "url": "https://styleguide.vtex.com/",
+    "desc": "Reusable patterns, components and assets related to product design in VTEX"
+  },
+  {
+    "name": "Rizzo",
+    "url": "https://rizzo.lonelyplanet.com/styleguide/design-elements",
+    "desc": "Style guide with UI components, JS components, widgets, etc"
+  },
+  {
+    "name": "Atomize",
+    "url": "https://atomizecode.com/",
+    "desc": "UI framework that helps developers collaborate with designers and build consistent user interfaces effortlessly"
+  },
+  {
+    "name": "StyleGuides.io",
+    "url": "http://styleguides.io/",
+    "desc": "A directory of 500+ styleguides"
+  },
+  {
+    "name": "Done Design System",
+    "url": "https://uilibrary.github.io/done-design-system/",
+    "desc": "Open source design system, guides & components"
+  },
+  {
+    "name": "Skoda Brand System",
+    "url": "https://skoda-brand.com/explore-our-brand",
+    "desc": "Design guideline for developing applications under the Skoda brand"
+  },
+  {
+    "name": "Spectrum",
+    "url": "https://spectrum.adobe.com/",
+    "desc": "Adobe’s design system that provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive."
+  },
+  {
+    "name": "Asphalt",
+    "url": "https://asphalt.gojek.io/",
+    "desc": "Gojek’s design language system. A collection of guidelines and components to create amazing user experiences."
+  },
+  {
+    "name": "Laws of UX",
+    "url": "https://lawsofux.com/",
+    "desc": "A collection of the key maxims that designers must consider when building user interfaces."
+  },
+  {
+    "name": "Checklist Design",
+    "url": "https://www.checklist.design/",
+    "desc": "Checklist Design is a curated list of checklists ranging from website pages, to UI components, all the way to branding assets."
+  },
+  {
+    "name": "Humane By Design",
+    "url": "https://humanebydesign.com/",
+    "desc": "A resource that provides guidance for designing ethically humane digital products through patterns focused on user well-being."
+  },
+  {
+    "name": "Pr1mer Guidelines",
+    "url": "https://guidelines.pr1mer.tech/",
+    "desc": "An open source set of very general guidelines, inspired by Human Interface. Created and maintained by Pr1mer Tech"
+  }
+]

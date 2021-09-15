@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Greensock",
+    "url": "https://greensock.com/",
+    "desc": "A JavaScript library for building high-performance animations that work in every major browser"
+  },
+  {
+    "name": "Velocity.js",
+    "url": "http://velocityjs.org/",
+    "desc": "Velocity is a lightweight animation engine with the same API as jQuery's $.animate()"
+  },
+  {
+    "name": "lax.js",
+    "url": "https://github.com/alexfoxy/laxxx",
+    "desc": "Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll!"
+  },
+  {
+    "name": "Rellax.js",
+    "url": "https://github.com/dixonandmoe/rellax",
+    "desc": "A buttery smooth, super lightweight, vanilla javascript parallax library"
+  },
+  {
+    "name": "three.js",
+    "url": "https://github.com/mrdoob/three.js/",
+    "desc": "An easy to use, lightweight, 3D library with a default WebGL renderer."
+  },
+  {
+    "name": "wow.js",
+    "url": "https://wowjs.uk/",
+    "desc": "Reveal Animations When You Scroll."
+  },
+  {
+    "name": "chocolat.js",
+    "url": "http://chocolat.insipi.de/",
+    "desc": "Free lightbox plugin."
+  },
+  {
+    "name": "Animate On Scroll",
+    "url": "https://michalsnik.github.io/aos/",
+    "desc": "Animate on scroll library to reveal animations when You scroll."
+  },
+  {
+    "name": "Tilt.js",
+    "url": "http://gijsroge.github.io/tilt.js/",
+    "desc": "A tiny requestAnimationFrame powered 60+fps lightweight parallax hover tilt effect for jQuery."
+  },
+  {
+    "name": "Roughnotation",
+    "url": "https://roughnotation.com/",
+    "desc": "Rough Notation is a small JavaScript library to create and animate annotations on a web page"
+  },
+  {
+    "name": "tsParticles",
+    "url": "https://particles.matteobruni.it/",
+    "desc": "A lightweight library for creating particles, an improved version of the abandoned and obsolete particles.js"
+  },
+  {
+    "name": "Particles.js",
+    "url": "https://vincentgarreau.com/particles.js/",
+    "desc": "A lightweight JavaScript library for creating particles"
+  },
+  {
+    "name": "mo.js",
+    "url": "https://mojs.github.io/",
+    "desc": "The motion graphics toolbelt for the web"
+  },
+  {
+    "name": "Lightbox2",
+    "url": "https://lokeshdhakar.com/projects/lightbox2/",
+    "desc": "A small JS library to overlay images on top of the current page."
+  },
+  {
+    "name": "Slick",
+    "url": "https://kenwheeler.github.io/slick/",
+    "desc": "Fully responsive carousel"
+  },
+  {
+    "name": "barba.js",
+    "url": "https://barba.js.org/",
+    "desc": "Create fluid and smooth transitions between your website’s pages."
+  },
+  {
+    "name": "Locomotive Scroll",
+    "url": "https://locomotivemtl.github.io/locomotive-scroll/",
+    "desc": "A simple scroll library that provides detection of elements in viewport & smooth scrolling with parallax."
+  },
+  {
+    "name": "Owl carousel",
+    "url": "https://owlcarousel2.github.io/OwlCarousel2/",
+    "desc": "Free responsive jQuery carousel"
+  },
+  {
+    "name": "Swiperjs",
+    "url": "https://swiperjs.com/",
+    "desc": "Free, Open Source, Modern Slider without jQuery. Available for Vanilla JS and all modern frameworks like React, Vue, Angular etc."
+  },
+  {
+    "name": "Splide",
+    "url": "https://splidejs.com/",
+    "desc": "Free, pure JS library for carousels and sliders"
+  },
+  {
+    "name": "Simple Parallax",
+    "url": "https://simpleparallax.com/",
+    "desc": "The easiest way to get a parallax effect with javascript"
+  },
+  {
+    "name": "KUTE.js",
+    "url": "https://thednp.github.io/kute.js/",
+    "desc": "KUTE.js is a JavaScript animation engine for modern browsers."
+  },
+  {
+    "name": "Granim.js",
+    "url": "https://sarcadass.github.io/granim.js/index.html",
+    "desc": "Create fluid and interactive gradient animations with this small javascript library."
+  },
+  {
+    "name": "Popmotion",
+    "url": "https://popmotion.io/",
+    "desc": "Simple animation libraries for delightful user interfaces."
+  },
+  {
+    "name": "Vivus",
+    "url": "https://maxwellito.github.io/vivus/",
+    "desc": "Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs, giving them the appearence of being drawn."
+  },
+  {
+    "name": "Typed.js",
+    "url": "https://mattboldt.com/demos/typed-js/",
+    "desc": "A JavaScript Typing Animation Library."
+  },
+  {
+    "name": "Progress Bar.js",
+    "url": "https://kimmobrunfeldt.github.io/progressbar.js/",
+    "desc": "Responsive and slick progress bars with animated SVG paths."
+  }
+]

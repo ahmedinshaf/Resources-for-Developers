@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Color Brewer 2",
+    "url": "https://colorbrewer2.org/",
+    "desc": "The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest."
+  },
+  {
+    "name": "Colormind.io",
+    "url": "http://colormind.io/",
+    "desc": "Color palette generator"
+  },
+  {
+    "name": "ColorCurves.app",
+    "url": "https://colorcurves.app/",
+    "desc": "Color palette generator that uses curves to generate color palettes"
+  },
+  {
+    "name": "ColorGradient",
+    "url": "https://colorgradient.dev/",
+    "desc": "A free tool to create simple and complex CSS Gradients visually"
+  },
+  {
+    "name": "Coolors",
+    "url": "https://coolors.co/",
+    "desc": "Create the perfect palette or get inspired by thousands of beautiful color schemes"
+  },
+  {
+    "name": "HTML Color Codes",
+    "url": "https://htmlcolorcodes.com/",
+    "desc": "Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names"
+  },
+  {
+    "name": "Colors & Fonts",
+    "url": "https://www.colorsandfonts.com/",
+    "desc": "A curated library of colors, fonts and resources"
+  },
+  {
+    "name": "Palette List",
+    "url": "https://www.palettelist.com/",
+    "desc": "Pick 2 colors you like and the tool generates thousands of palettes for you."
+  },
+  {
+    "name": "Paletter",
+    "url": "https://www.paletter.app/",
+    "desc": "Create a color palette from a single color"
+  },
+  {
+    "name": "Google Material Color Tool",
+    "url": "https://material.io/resources/color/",
+    "desc": "Official Google Material Color Palette Tool"
+  },
+  {
+    "name": "Material Palette",
+    "url": "https://www.materialpalette.com/",
+    "desc": "Free to pick palettes, icons and colors for Material Design"
+  },
+  {
+    "name": "ColorSpace",
+    "url": "https://mycolor.space/",
+    "desc": "Generate nice color palettes from one color"
+  },
+  {
+    "name": "FlatUIColors",
+    "url": "https://flatuicolors.com/",
+    "desc": "Beautiful set of color palettes in various flavors"
+  },
+  {
+    "name": "Adobe Color",
+    "url": "https://color.adobe.com/create",
+    "desc": "Create color palettes, extract gradients from images, etc."
+  },
+  {
+    "name": "Colorsinspo",
+    "url": "https://colorsinspo.com/",
+    "desc": "All-in-one resource for finding everything about colors"
+  },
+  {
+    "name": "ColorsWall",
+    "url": "https://colorswall.com/",
+    "desc": "Place to store your color palettes and generate palette in one click"
+  },
+  {
+    "name": "Happyhues",
+    "url": "https://www.happyhues.co/",
+    "desc": "Happy Hues is a color palette inspiration site that acts as a real-world example as to how the colors could be used in your design projects by Mackenzie Child"
+  },
+  {
+    "name": "Adobe Trends",
+    "url": "https://color.adobe.com/trends",
+    "desc": "Discover current color trends in different industries from the creative communities on Behance and Adobe Stock"
+  },
+  {
+    "name": "Color Hunt",
+    "url": "https://colorhunt.co/",
+    "desc": "A free and open platform for color inspiration with thousands of trendy hand-picked color palettes"
+  },
+  {
+    "name": "Gradient Hunt",
+    "url": "https://gradienthunt.com/",
+    "desc": "A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients"
+  },
+  {
+    "name": "Web Gradients",
+    "url": "https://webgradients.com/",
+    "desc": "A free website to find good CSS gradients"
+  },
+  {
+    "name": "ColorBox",
+    "url": "https://www.colorbox.io/",
+    "desc": "A free website to produce color set"
+  },
+  {
+    "name": "CSS gradient",
+    "url": "https://cssgradient.io/",
+    "desc": "A free website to make custom gradient and some examples of gradient"
+  },
+  {
+    "name": "gradienta",
+    "url": "https://gradienta.io/",
+    "desc": "A pure css and jpg gradients"
+  },
+  {
+    "name": "UI Gradients",
+    "url": "https://uigradients.com/",
+    "desc": "UI gradients color generator"
+  },
+  {
+    "name": "Palette Generator",
+    "url": "https://palettegenerator.colorion.co/",
+    "desc": "Generate new color palette with every spacebar press"
+  },
+  {
+    "name": "Material Palettes",
+    "url": "https://material.colorion.co/",
+    "desc": "1000+ Material Design palettes"
+  },
+  {
+    "name": "Grabient",
+    "url": "https://www.grabient.com/",
+    "desc": "Gradient Selector"
+  },
+  {
+    "name": "ShadeSwash",
+    "url": "https://shadeswash.netlify.app/",
+    "desc": "Quickly generate shades of any color"
+  },
+  {
+    "name": "BrandColors",
+    "url": "http://brandcolors.net/",
+    "desc": "The biggest collection of official brand color codes"
+  },
+  {
+    "name": "BRAND PALETTES",
+    "url": "https://brandpalettes.com/",
+    "desc": "Logo Color Codes and Palettes"
+  },
+  {
+    "name": "Material Design Palette Generator",
+    "url": "http://mcg.mbitson.com/",
+    "desc": "Generate theme and color palette Material Design-like"
+  },
+  {
+    "name": "Colorate",
+    "url": "https://colorate.azurewebsites.net/",
+    "desc": "Color scheme tool for designers and developers. This will help you draw inspiration and serve as a resource for your color work."
+  },
+  {
+    "name": "0to255",
+    "url": "https://www.0to255.com/",
+    "desc": "A color tool that makes it easy to lighten and darken colors. It’s perfect for hover states, borders, gradients, and more."
+  },
+  {
+    "name": "Color Blender",
+    "url": "https://meyerweb.com/eric/tools/color-blend",
+    "desc": "A tool that shows the midpoint colors between two colors"
+  },
+  {
+    "name": "Gradient Buttons",
+    "url": "https://gradientbuttons.colorion.co/",
+    "desc": "Ready to use copy/paste gradient buttons"
+  },
+  {
+    "name": "Khroma",
+    "url": "http://khroma.co/",
+    "desc": "Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save."
+  },
+  {
+    "name": "whocanuse",
+    "url": "https://whocanuse.com/",
+    "desc": "A tool that brings attention and understanding to how color contrast can affect different people with visual impairments."
+  },
+  {
+    "name": "Colorable",
+    "url": "https://colorable.jxnblk.com/",
+    "desc": "Color combination contrast tester"
+  },
+  {
+    "name": "Color Hex Picker",
+    "url": "https://colorhexpicker.com/",
+    "desc": "Tool to get hex code along with name of the color."
+  },
+  {
+    "name": "Saruwakakun",
+    "url": "https://saruwakakun.com/en/color-ideas",
+    "desc": "The stunning color scheme for website & App Designs with previews"
+  },
+  {
+    "name": "Paletton",
+    "url": "https://paletton.com/",
+    "desc": "Paletton.com is a designer color tool designed for creating color combinations that work together well."
+  },
+  {
+    "name": "Colorzilla",
+    "url": "https://www.colorzilla.com/",
+    "desc": "A powerful online Photoshop-like CSS gradient editor"
+  },
+  {
+    "name": "Image Color Picker",
+    "url": "https://image-color.com/",
+    "desc": "Image color picker and palette generator"
+  },
+  {
+    "name": "CombineCOLORS",
+    "url": "https://combinecolors.com/",
+    "desc": "Color mixing tool"
+  },
+  {
+    "name": "Color Lovers",
+    "url": "https://www.colourlovers.com/palettes",
+    "desc": "It will show the color schemes which are popular in the outside world."
+  },
+  {
+    "name": "HTML CSS Color",
+    "url": "https://www.htmlcsscolor.com/",
+    "desc": "Free online Color (USA) or Colour (British) tools: information, gradient generator, color wheels etc."
+  },
+  {
+    "name": "HEX Color Codes",
+    "url": "https://hexcolorcodes.org/",
+    "desc": "It gets HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names."
+  },
+  {
+    "name": "CoolHue 2.0",
+    "url": "https://webkul.github.io/coolhue/",
+    "desc": "A free tool that shows different gradient examples in CSS and PNG format"
+  },
+  {
+    "name": "Colors.lol",
+    "url": "https://colors.lol/",
+    "desc": "Interesting color palettes generated by a Twitter bot, there are hex codes and descriptive names for each color."
+  },
+  {
+    "name": "colors.dopely",
+    "url": "https://colors.dopely.top/",
+    "desc": "Super-fast and simple color palette generator, palettes can be saved and shared in seconds."
+  },
+  {
+    "name": "UIColor Picker",
+    "url": "https://uicolorpicker.com/",
+    "desc": "A collection of UI Colors with hex codes available to be copied in just one click."
+  },
+  {
+    "name": "Color Hex",
+    "url": "https://www.color-hex.com/",
+    "desc": "Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK) and generates a simple css code for the selected color."
+  },
+  {
+    "name": "FarbVelo",
+    "url": "https://farbvelo.elastiq.ch/",
+    "desc": "A random color palette generator"
+  },
+  {
+    "name": "Veranda Color",
+    "url": "https://verandacolor.com/",
+    "desc": "Browse color palettes made by other designers, generate and submit your own"
+  },
+  {
+    "name": "Duo",
+    "url": "https://duo.alexpate.uk/",
+    "desc": "Duo is a collection of colour combinations that I’ve curated from personal projects or that I’ve come across on the web."
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Vuetify",
+    "url": "https://vuetifyjs.com/en/",
+    "desc": "Material design component framework"
+  },
+  {
+    "name": "Bootstrap Vue",
+    "url": "https://bootstrap-vue.org/",
+    "desc": "Use Bootstrap components with Vue"
+  },
+  {
+    "name": "Buefy",
+    "url": "https://buefy.org/",
+    "desc": "Lightweight UI components based on Bulma"
+  },
+  {
+    "name": "Semantic UI Vue",
+    "url": "https://semantic-ui-vue.github.io/",
+    "desc": "Semantic UI Vue is the Vue integration for Semantic UI"
+  },
+  {
+    "name": "VEUI",
+    "url": "https://veui.dev/en-US",
+    "desc": "VEUI is an enterprise UI component library, based on Vue.js."
+  },
+  {
+    "name": "Grace",
+    "url": "https://github.com/Trendyol/grace",
+    "desc": "Design System For Vue Applications."
+  },
+  {
+    "name": "Quasar",
+    "url": "https://quasar.dev/",
+    "desc": "High-performance Material Design component suite with builders for SPA, SSR, PWA, Mobile (Cordova & Capacitor), Desktop (Electron) and Browser extensions"
+  },
+  {
+    "name": "Element",
+    "url": "https://element.eleme.io/#/en-US",
+    "desc": "Desktop UI library for Vue"
+  },
+  {
+    "name": "Fish UI",
+    "url": "https://myliang.github.io/fish-ui/#/components/index",
+    "desc": "Vue UI toolkit for the web"
+  },
+  {
+    "name": "Keen UI",
+    "url": "https://josephuspaye.github.io/Keen-UI",
+    "desc": "VueUI library with a simple API, inspired by Google's Material Design"
+  },
+  {
+    "name": "Onsen Vue",
+    "url": "https://onsen.io/vue/",
+    "desc": "Distributes Components for hybrid mobile apps with Vue and Onsen UI"
+  },
+  {
+    "name": "Vuejsexamples",
+    "url": "https://vuejsexamples.com/",
+    "desc": "A nice collection of useful vuejs UI components"
+  },
+  {
+    "name": "Inkline",
+    "url": "https://inkline.io/",
+    "desc": "Inkline is a modern UI/UX Framework for Vue.js designed for creating flawless responsive web applications"
+  },
+  {
+    "name": "Vuesax",
+    "url": "https://vuesax.com/",
+    "desc": "Unique and reusable UI components"
+  },
+  {
+    "name": "Antdv",
+    "url": "https://antdv.com/",
+    "desc": "UI library for Vue based on Ant Design"
+  },
+  {
+    "name": "Shards Vue",
+    "url": "https://designrevision.com/downloads/shards-vue/",
+    "desc": "A high-quality & free Vue UI kit featuring a modern design system with dozens of custom components"
+  },
+  {
+    "name": "Prime Vue",
+    "url": "https://www.primefaces.org/primevue/",
+    "desc": "Powerful yet simple to use, versatile, performant Vue UI Component Library to help you build stunning user interfaces."
+  },
+  {
+    "name": "Chakra UI Vue",
+    "url": "https://vue.chakra-ui.com/",
+    "desc": "Chakra UI is a simple modular and accessible component library that gives you the building blocks to build Vue applications with speed."
+  },
+  {
+    "name": "View UI",
+    "url": "https://www.iviewui.com/",
+    "desc": "Dozens of useful and beautiful Vue components made for people with all skill levels with extensive documentation."
+  },
+  {
+    "name": "Particles.vue",
+    "url": "https://particles.matteobruni.it/",
+    "desc": "A lightweight Vue 2.x component for creating particles"
+  },
+  {
+    "name": "Particles.vue3",
+    "url": "https://particles.matteobruni.it/",
+    "desc": "A lightweight Vue 3.x component for creating particles"
+  },
+  {
+    "name": "TC Components",
+    "url": "https://components.timos.design/",
+    "desc": "A library of high-quality ready to use components that will help you speed up your development workflow."
+  },
+  {
+    "name": "Vant",
+    "url": "https://youzan.github.io/vant",
+    "desc": "Lightweight Mobile UI Components built on Vue."
+  },
+  {
+    "name": "Equal UI",
+    "url": "https://quatrochan.github.io/Equal/",
+    "desc": "Open-source Vue 3 components system for your next project based on TypeScript"
+  },
+  {
+    "name": "Mint UI",
+    "url": "https://mint-ui.github.io/#!/en",
+    "desc": "Mobile UI elements for Vue.js"
+  },
+  {
+    "name": "Cube UI",
+    "url": "https://didi.github.io/cube-ui/#/en-US",
+    "desc": "A fantastic mobile ui lib implement by Vue.js"
+  },
+  {
+    "name": "Muse UI",
+    "url": "https://muse-ui.org/#/en-US",
+    "desc": "Based on the Vue 2.0 elegant Material Design UI component library"
+  },
+  {
+    "name": "AT-UI",
+    "url": "https://at-ui.github.io/at-ui/#/en",
+    "desc": "AT-UI is a modular front-end UI framework for developing fast and powerful web interfaces based on Vue.js."
+  },
+  {
+    "name": "Vuikit",
+    "url": "https://vuikit.js.org/",
+    "desc": "A consistent and responsive Vue UI library, based on the front-end framework UIkit."
+  },
+  {
+    "name": "Wave UI",
+    "url": "https://antoniandre.github.io/wave-ui/",
+    "desc": "A Vue.js UI framework with only the bright side."
+  },
+  {
+    "name": "VueTailwind",
+    "url": "https://www.vue-tailwind.com/",
+    "desc": "Set of Lightview and fully customizable Vue Components optimized for TailwindCSS."
+  },
+  {
+    "name": "Oruga",
+    "url": "https://oruga.io/",
+    "desc": "Oruga is a lightweight library of UI components for Vue.js without CSS framework dependency."
+  },
+  {
+    "name": "BalmUI",
+    "url": "https://material.balmjs.com/#/",
+    "desc": "BalmUI is a modular and customizable Material Design UI library for Vue.js."
+  },
+  {
+    "name": "Weex UI",
+    "url": "https://github.com/apache/incubator-weex-ui",
+    "desc": "A rich interaction, lightweight, high performance UI library based on Weex."
+  },
+  {
+    "name": "Varlet",
+    "url": "https://github.com/haoziqaq/varlet",
+    "desc": "Varlet is a Material design mobile component library developed based on Vue3, developed and maintained by partners in the community."
+  },
+  {
+    "name": "Naive UI",
+    "url": "https://www.naiveui.com/en-US/os-theme",
+    "desc": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow."
+  },
+  {
+    "name": "Vuestic",
+    "url": "https://vuestic.dev/",
+    "desc": "Free and Open Source UI Library for Vue 3 🤘."
+  },
+  {
+    "name": "Vue Final Modal",
+    "url": "https://vue-final-modal.org/",
+    "desc": "Vue Final Modal is a tiny, renderless, mobile-friendly, feature-rich modal component for Vue.js."
+  }
+]

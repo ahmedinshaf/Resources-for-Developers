@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Material Angular",
+    "url": "https://material.angular.io/",
+    "desc": "UI library for Angular based on Material design"
+  },
+  {
+    "name": "NG Bootstrap",
+    "url": "https://ng-bootstrap.github.io/#/home",
+    "desc": "UI library for Angular based on the Bootstrap framework"
+  },
+  {
+    "name": "PrimeNG",
+    "url": "https://www.primefaces.org/primeng/#/",
+    "desc": "Powerful UI component library for Angular"
+  },
+  {
+    "name": "Onsen Angular",
+    "url": "https://onsen.io/angular2/",
+    "desc": "Hybrid mobile and PWA UI library for Angular and Onsen UI"
+  },
+  {
+    "name": "NG Lightning",
+    "url": "https://ng-lightning.github.io/ng-lightning/#/",
+    "desc": "Native Angular components & directives for Lightning Design System"
+  },
+  {
+    "name": "NG Semantic",
+    "url": "https://ng-semantic.herokuapp.com/",
+    "desc": "UI library for Angular based on Semantic UI"
+  },
+  {
+    "name": "Nebular",
+    "url": "https://akveo.github.io/nebular/",
+    "desc": "Customizable UI Kit, Auth & Security for Angular"
+  },
+  {
+    "name": "Alyle UI",
+    "url": "https://alyle.io/",
+    "desc": "Minimal components set for Angular"
+  },
+  {
+    "name": "NGX Bootstrap",
+    "url": "https://valor-software.com/ngx-bootstrap/#/",
+    "desc": "Another UI library for Angular based on the Bootstrap framework"
+  },
+  {
+    "name": "NG Zorro",
+    "url": "https://ng.ant.design/",
+    "desc": "UI library for Angular based on Ant Design"
+  },
+  {
+    "name": "Pagination for datatables",
+    "url": "https://www.npmjs.com/package/ngx-pagination",
+    "desc": "npm library for pagination"
+  },
+  {
+    "name": "Multi select dropdown",
+    "url": "https://www.npmjs.com/package/ng-multiselect-dropdown",
+    "desc": "For multi select drop-dowm in forms"
+  },
+  {
+    "name": "NG Particles",
+    "url": "https://particles.matteobruni.it/",
+    "desc": "A lightweight Angular component for creating particles"
+  },
+  {
+    "name": "Covalent UI",
+    "url": "https://teradata.github.io/covalent/v3/#/",
+    "desc": "Angular UI Platform focused on solving common enterprise needs"
+  },
+  {
+    "name": "NGX Foundation",
+    "url": "https://ngxfoundation.com/",
+    "desc": "UI framework based on the veteran CSS framework foundation"
+  },
+  {
+    "name": "Clarity",
+    "url": "https://clarity.design/",
+    "desc": "CSS based Angular UI framework developed by VMware group"
+  },
+  {
+    "name": "Taiga UI",
+    "url": "https://taiga-ui.dev/",
+    "desc": "Taiga UI is fully-treeshakable Angular UI Kit consisting of multiple base libraries and several add-ons."
+  }
+]

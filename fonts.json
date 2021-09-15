@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Google Fonts",
+    "url": "https://fonts.google.com/",
+    "desc": "Library of around 1000 free licensed font families"
+  },
+  {
+    "name": "DaFont",
+    "url": "https://www.dafont.com/",
+    "desc": "Archive of freely downloadable fonts"
+  },
+  {
+    "name": "Use & Modify",
+    "url": "https://usemodify.com/",
+    "desc": "Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces"
+  },
+  {
+    "name": "1001 Free Fonts",
+    "url": "https://www.1001freefonts.com/",
+    "desc": "I think the name speaks for itself 😏"
+  },
+  {
+    "name": "Font Squirrel",
+    "url": "https://www.fontsquirrel.com/",
+    "desc": "Font Squirrel scours the internet for high quality, legitimately free fonts"
+  },
+  {
+    "name": "Font Fabric",
+    "url": "https://www.fontfabric.com/free-fonts/",
+    "desc": "A digital type foundry crafting retail fonts and custom typography for various brands"
+  },
+  {
+    "name": "Tiff",
+    "url": "https://tiff.herokuapp.com/",
+    "desc": "A type diff tool that visually contrasts the differences between two fonts"
+  },
+  {
+    "name": "TypeKit Practice",
+    "url": "https://practice.typekit.com/",
+    "desc": "Learn about typography practices"
+  },
+  {
+    "name": "Fontjoy",
+    "url": "https://fontjoy.com/",
+    "desc": "Generate font pairing in one click"
+  },
+  {
+    "name": "Golden Ratio",
+    "url": "https://grtcalculator.com/",
+    "desc": "Golden Ratio Typography Calculator"
+  },
+  {
+    "name": "FontSpark",
+    "url": "https://fontspark.app/",
+    "desc": "Discover Better Fonts"
+  },
+  {
+    "name": "FontGet",
+    "url": "https://www.fontget.com/",
+    "desc": "Has a variety of fonts available to download and sorted neatly with tags"
+  },
+  {
+    "name": "FontPair",
+    "url": "https://fontpair.co/",
+    "desc": "Helps you pair Google Fonts together"
+  },
+  {
+    "name": "Font Space",
+    "url": "https://www.fontspace.com/",
+    "desc": "A designer-centered free font website that has quick customizable previews"
+  },
+  {
+    "name": "Abstract Fonts",
+    "url": "http://www.abstractfonts.com/",
+    "desc": "Fonts free for personal and commercial use"
+  },
+  {
+    "name": "Free Typography",
+    "url": "https://freetypography.com/",
+    "desc": "A list of high quality fonts"
+  },
+  {
+    "name": "Leon Sans",
+    "url": "https://github.com/cmiscm/leonsans/",
+    "desc": "A geometric sans-serif typeface made with code"
+  },
+  {
+    "name": "Lexend",
+    "url": "https://www.lexend.com/",
+    "desc": "A variable font empirically shown to significantly improve reading-proficiency"
+  },
+  {
+    "name": "Fonts for Apple Platforms",
+    "url": "https://developer.apple.com/fonts/",
+    "desc": "Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps"
+  },
+  {
+    "name": "SFWin",
+    "url": "https://github.com/blaisck/sfwin/",
+    "desc": "San Francisco Fonts for Windows 10 and non-Apple Platform"
+  },
+  {
+    "name": "Font Flipper",
+    "url": "https://fontflipper.com/",
+    "desc": "Preview 800+ Google Fonts on top of your own designs, without having to download the fonts"
+  },
+  {
+    "name": "Fonts Arena",
+    "url": "https://fontsarena.com/",
+    "desc": "Free curated fonts"
+  },
+  {
+    "name": "Befonts",
+    "url": "https://befonts.com/",
+    "desc": "High quality fonts for free"
+  },
+  {
+    "name": "Arabic fonts",
+    "url": "https://arabicfonts.net/",
+    "desc": "Arabic fonts for free"
+  },
+  {
+    "name": "FontDrop",
+    "url": "https://fontdrop.info/",
+    "desc": "Simple and easy way to view the contents of font files"
+  },
+  {
+    "name": "Open Foundry",
+    "url": "https://open-foundry.com/",
+    "desc": "FREE platform for curated open-source typefaces"
+  },
+  {
+    "name": "Glyphter",
+    "url": "https://glyphter.com/",
+    "desc": "Upload your own SVGS and turn them into font files. Useful if you want a smaller library loaded"
+  },
+  {
+    "name": "Google Webfonts Helper",
+    "url": "https://google-webfonts-helper.herokuapp.com/fonts",
+    "desc": "A Hassle-Free Way to Self-Host Google Fonts"
+  },
+  {
+    "name": "Rough Font Awesome",
+    "url": "https://djamshed.github.io/rough-awesome-font/dist/",
+    "desc": "When RoughJS meets Font Awesome"
+  },
+  {
+    "name": "FFonts",
+    "url": "https://ffonts.net/",
+    "desc": "Stylish fonts for free"
+  },
+  {
+    "name": "Malayalam Fonts",
+    "url": "https://smc.org.in/fonts/",
+    "desc": "Malayalam fonts for free which are maintained by Swathanthra Malayalam Computing(SMC)"
+  },
+  {
+    "name": "Dev Fonts",
+    "url": "https://devfonts.gafi.dev/",
+    "desc": "Find and use the coding fonts for free"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Favicon.io",
+    "url": "https://favicon.io/",
+    "desc": "Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats"
+  },
+  {
+    "name": "Favicomatic",
+    "url": "https://favicomatic.com/",
+    "desc": "Generate favicons of all the sizes and formats as well as the HTML code needed to support every possible browser or device"
+  },
+  {
+    "name": "Favicon Generator",
+    "url": "http://tools.dynamicdrive.com/favicon/",
+    "desc": "Generate favicon ico files for your website"
+  },
+  {
+    "name": "RealFaviconGenerator",
+    "url": "https://realfavicongenerator.net/",
+    "desc": "Generate icons for all platforms (Windows, iOS, Android)"
+  },
+  {
+    "name": "FontIcon",
+    "url": "https://gauger.io/fonticon/",
+    "desc": "Generate favicons and images from Font Awesome icons"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ChartJS",
+    "url": "https://www.chartjs.org/",
+    "desc": "Simple yet flexible JavaScript charting for designers & developers"
+  },
+  {
+    "name": "FrappeJS",
+    "url": "https://frappe.io/charts",
+    "desc": "Includes Green squares grid like in github, and other charts to use."
+  },
+  {
+    "name": "G2Plot",
+    "url": "https://g2plot.antv.vision/en",
+    "desc": "G2Plot is an interactive and responsive charting library based on the grammar of graphics."
+  },
+  {
+    "name": "Google Charts",
+    "url": "https://developers.google.com/chart/",
+    "desc": "Get the experience from google to create similar charts that google use."
+  },
+  {
+    "name": "Data Driven Documents (D3)",
+    "url": "https://d3js.org/",
+    "desc": "bind complicated and massive data to interactive graphs."
+  }
+]

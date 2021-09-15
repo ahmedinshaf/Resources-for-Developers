@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Bit",
+    "url": "https://bit.dev/components",
+    "desc": "Provides a huge library of reuseable UI Components for React, Angular, Vue, React Native. Also can be used for sharing UI Components among other team members"
+  },
+  {
+    "name": "UILang",
+    "url": "http://uilang.com/",
+    "desc": "A minimal, UI-focused programming language for web designers"
+  },
+  {
+    "name": "Medialoot CSS Components",
+    "url": "https://medialoot.com/free-themes/css-components/",
+    "desc": "Calendars, price grids and other UI components"
+  },
+  {
+    "name": "Froala Design Blocks",
+    "url": "https://froala.com/design-blocks",
+    "desc": "Over 170 responsive design blocks ready to be used in your web or mobile apps"
+  },
+  {
+    "name": "Mui Treasury",
+    "url": "https://mui-treasury.com/",
+    "desc": "An open-source project that provides a collection of ready-to-use components based on Material-UI."
+  },
+  {
+    "name": "Material Design For Bootstrap",
+    "url": "https://fezvrasta.github.io/bootstrap-material-design/",
+    "desc": "Open source toolkit for building material design with Bootstrap"
+  },
+  {
+    "name": "Photonkit",
+    "url": "http://photonkit.com/",
+    "desc": "Desktop UI library for Electron"
+  },
+  {
+    "name": "Flat UI",
+    "url": "https://designmodo.github.io/Flat-UI/",
+    "desc": "Minimal free user interface kit"
+  },
+  {
+    "name": "Shards",
+    "url": "https://designrevision.com/downloads/shards/",
+    "desc": "A free and modern UI toolkit for web makers based on Bootstrap"
+  },
+  {
+    "name": "Creative Tim",
+    "url": "https://www.creative-tim.com/",
+    "desc": "All types of UI libraries and kits including JS frameworks like React"
+  },
+  {
+    "name": "Brumm Shadow Maker",
+    "url": "https://brumm.af/shadows",
+    "desc": "An online tool to make css shadows"
+  },
+  {
+    "name": "AdminLTE",
+    "url": "https://adminlte.io/",
+    "desc": "Best open source admin dashboard & control panel theme"
+  },
+  {
+    "name": "SpinKit",
+    "url": "https://tobiasahlin.com/spinkit/",
+    "desc": "Simple CSS Spinners"
+  },
+  {
+    "name": "Epic Spinners",
+    "url": "https://epic-spinners.epicmax.co/",
+    "desc": "CSS spinners collection with Vue.js integration."
+  },
+  {
+    "name": "Loading.io",
+    "url": "https://loading.io/",
+    "desc": "Online service provider for creating simple animations, spinners, progress bar and more"
+  },
+  {
+    "name": "Moving Letters",
+    "url": "https://tobiasahlin.com/moving-letters/",
+    "desc": "Animated Text with JavaScript and anime.js"
+  },
+  {
+    "name": "CSS Layout",
+    "url": "https://csslayout.io/",
+    "desc": "A collection of popular web layouts and patterns in pure CSS"
+  },
+  {
+    "name": "CSS Grid Generator",
+    "url": "https://cssgrid-generator.netlify.app/",
+    "desc": "An open-source project that allow users to quickly create dynamic layout based on CSS Grid."
+  },
+  {
+    "name": "Codyhouse",
+    "url": "https://codyhouse.co/",
+    "desc": "Kick-start your web projects with CodyHouse's front-end framework and library of accessible HTML, CSS, JavaScript components"
+  },
+  {
+    "name": "Tailwind Starter Kit",
+    "url": "https://github.com/creativetimofficial/tailwind-starter-kit",
+    "desc": "Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source"
+  },
+  {
+    "name": "Tailwindtoolbox",
+    "url": "https://www.tailwindtoolbox.com/",
+    "desc": "Open source starter templates and components, a plugins directory and useful tools/utilities to kick start your Tailwind CSS project."
+  },
+  {
+    "name": "tailwindcomponents",
+    "url": "https://tailwindcomponents.com/",
+    "desc": "A free repository for community components using TailwindCSS"
+  },
+  {
+    "name": "sweetalert",
+    "url": "https://sweetalert.js.org/",
+    "desc": "SweetAlert makes popup messages easy and pretty."
+  },
+  {
+    "name": "sweetalert2",
+    "url": "https://sweetalert2.github.io/",
+    "desc": "A beautiful, responsive, customizable, accessible replacement for javascript's popup boxes"
+  },
+  {
+    "name": "tailblocks",
+    "url": "https://mertjf.github.io/tailblocks/",
+    "desc": "Open source ready-to-use Tailwind CSS components."
+  },
+  {
+    "name": "Soft Components",
+    "url": "https://soft-components-docs.web.app/",
+    "desc": "A set of framework-agnostic web components based on neumorphic design."
+  },
+  {
+    "name": "Fast",
+    "url": "https://www.fast.design/",
+    "desc": "An interface system that can be used with modern Web Frameworks such as React, Vue and Angular."
+  },
+  {
+    "name": "LottieFiles ",
+    "url": "https://lottiefiles.com/",
+    "desc": "Interactive animations in many formats like json,gif and mp4, libraries and plugins for Web & Mobile ."
+  },
+  {
+    "name": "Tailwindow ",
+    "url": "https://component.tailwindow.com/",
+    "desc": "Components created using Tailwind CSS utilities class, so it can be customized to make themes easily."
+  },
+  {
+    "name": "Kutty",
+    "url": "https://kutty.netlify.app/",
+    "desc": "A set of accessible and reusable prebuilt Tailwind components that are commonly used in web applications."
+  },
+  {
+    "name": "Tailwind Templates",
+    "url": "https://tailwindtemplates.io/",
+    "desc": "A free collection of Tailwindcss Templates - tailwind components for rapid UI development."
+  },
+  {
+    "name": "Stitches",
+    "url": "https://stitches.hyperyolo.com/",
+    "desc": "An HTML template generator using functional css."
+  },
+  {
+    "name": "Meraki UI Components",
+    "url": "https://merakiui.com/",
+    "desc": "Beautiful Tailwindcss components that support RTL languages & fully responsive based on Flexbox & CSS Grid."
+  },
+  {
+    "name": "Daemonites Material Design For Bootstrap",
+    "url": "https://http//daemonite.github.io/material/",
+    "desc": "Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4"
+  },
+  {
+    "name": "Stitches",
+    "url": "https://stitches.dev/",
+    "desc": "CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience."
+  },
+  {
+    "name": "Headless UI",
+    "url": "https://headlessui.dev/",
+    "desc": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS."
+  },
+  {
+    "name": "Styled components",
+    "url": "https://styled-components.com/",
+    "desc": "Build beautifully UI Components, for your applications & websites."
+  }
+]

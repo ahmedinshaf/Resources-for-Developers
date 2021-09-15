@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Font Awesome",
+    "url": "https://fontawesome.com/",
+    "desc": "The web's most popular icon set and toolkit"
+  },
+  {
+    "name": "Line Awesome",
+    "url": "https://icons8.com/line-awesome",
+    "desc": "Swap in replacement of Font Awesome with modern line icons"
+  },
+  {
+    "name": "Material Icons",
+    "url": "https://material.io/resources/icons/",
+    "desc": "Material design icon library"
+  },
+  {
+    "name": "IonIcons",
+    "url": "http://ionicons.com/",
+    "desc": "Beautifully crafted open source icons from Ionic team"
+  },
+  {
+    "name": "Zurb Foundation Icons",
+    "url": "https://zurb.com/playground/foundation-icon-fonts-3",
+    "desc": "Customizable Foundation icons"
+  },
+  {
+    "name": "Fontisto Icons",
+    "url": "https://fontisto.com/",
+    "desc": "Fontisto the iconic font and css toolkit · 616+ free icons"
+  },
+  {
+    "name": "Boxicons",
+    "url": "https://boxicons.com/",
+    "desc": "Boxicons is a free collection of carefully crafted open source icons"
+  },
+  {
+    "name": "Icofont",
+    "url": "https://icofont.com/",
+    "desc": "2100+ free icons to spice up your creative designs"
+  },
+  {
+    "name": "Material Palette",
+    "url": "https://www.materialpalette.com/icons",
+    "desc": "Free to pick palettes, icons and colors for Material Design]"
+  },
+  {
+    "name": "Material Design Iconic Font",
+    "url": "http://zavoloklom.github.io/material-design-iconic-font/index.html",
+    "desc": "Material design icon font"
+  },
+  {
+    "name": "Vscode Codicons",
+    "url": "https://microsoft.github.io/vscode-codicons/dist/codicon.html",
+    "desc": "The icon font from Visual Studio Code"
+  },
+  {
+    "name": "Devicon",
+    "url": "https://konpa.github.io/devicon/",
+    "desc": "Devicon is a set of icons representing programming languages, designing & development tools"
+  },
+  {
+    "name": "PaymentFont",
+    "url": "https://github.com/AlexanderPoellmann/PaymentFont",
+    "desc": "A sleek web font for payment operators and methods. Featuring 116 icons"
+  },
+  {
+    "name": "Weather Icons",
+    "url": "https://erikflowers.github.io/weather-icons/",
+    "desc": "Weather Icons is the only icon font with 222 weather themed icons"
+  },
+  {
+    "name": "Stroke 7",
+    "url": "https://themes-pixeden.com/font-demos/7-stroke/index.html",
+    "desc": "202 thin stroke icons inspired by iOS 7"
+  },
+  {
+    "name": "Jam Icons",
+    "url": "https://jam-icons.com/",
+    "desc": "890+ handcrafted icons to make your web app awesome"
+  },
+  {
+    "name": "Fontello",
+    "url": "http://fontello.com/",
+    "desc": "200+ web icons where you can customize the names or codes of icons."
+  },
+  {
+    "name": "Linea",
+    "url": "https://linea.io/",
+    "desc": "Linea: Featuring 750+ Free Icons"
+  },
+  {
+    "name": "Unicons",
+    "url": "https://iconscout.com/unicons",
+    "desc": "A set of 1100+ Free line style icons available as web font, SVG icons, and as components for JS frameworks like React, Vue and React Native."
+  },
+  {
+    "name": "Mobirise Icons",
+    "url": "https://mobiriseicons.com/",
+    "desc": "A free, open source set of 150 elegant, pixel-perfect linear icons, available as web icon font and SVG icons."
+  },
+  {
+    "name": "Hero Icons",
+    "url": "https://heroicons.dev/",
+    "desc": "Free Open Source Svg Icon Library"
+  }
+]

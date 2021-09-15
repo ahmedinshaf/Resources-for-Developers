@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Material UI",
+    "url": "https://material-ui.com/",
+    "desc": "React components for faster and easier web development, based on Material Design"
+  },
+  {
+    "name": "Chakra UI",
+    "url": "https://chakra-ui.com/",
+    "desc": "Build accessible React apps & websites with speed. Openchakra\n"
+  },
+  {
+    "name": "React Bootstrap",
+    "url": "https://react-bootstrap.github.io/",
+    "desc": "Bootstrap rebuilt for React. Include Bootstrap components right in your JavaScript"
+  },
+  {
+    "name": "ui-playbook",
+    "url": "https://uiplaybook.dev/",
+    "desc": "The documented collection of UI components"
+  },
+  {
+    "name": "ReactStrap",
+    "url": "https://reactstrap.github.io/",
+    "desc": "Another Bootstrap UI library for React"
+  },
+  {
+    "name": "React Admin",
+    "url": "https://marmelab.com/react-admin/",
+    "desc": "A frontend Framework for building admin applications. Supports API's out of the box"
+  },
+  {
+    "name": "BlueprintJS",
+    "url": "https://blueprintjs.com/",
+    "desc": "React-based UI toolkit for the web"
+  },
+  {
+    "name": "React Semantic UI",
+    "url": "https://react.semantic-ui.com/",
+    "desc": "UI components based off of the Semantic UI framework"
+  },
+  {
+    "name": "Shards React",
+    "url": "https://designrevision.com/downloads/shards-react/",
+    "desc": "React UI kit featuring a modern design system with dozens of custom components"
+  },
+  {
+    "name": "React Virtualized",
+    "url": "https://bvaughn.github.io/react-virtualized",
+    "desc": "UI set for data. Includes tables, lists, sorting, etc."
+  },
+  {
+    "name": "React Toolbox",
+    "url": "http://react-toolbox.io/#/",
+    "desc": "Material design UI library for React"
+  },
+  {
+    "name": "Elastic UI",
+    "url": "https://elastic.github.io/eui/#/",
+    "desc": "Distributes UI React components and static assets for use in building web layouts"
+  },
+  {
+    "name": "React Desktop",
+    "url": "http://reactdesktop.js.org/",
+    "desc": "Desktop styled components in React. Includes MacOS and Windows based components"
+  },
+  {
+    "name": "Theme UI",
+    "url": "https://theme-ui.com/home",
+    "desc": "Build consistent, themeable React apps based on constraint-based design principles"
+  },
+  {
+    "name": "Onsen React",
+    "url": "https://onsen.io/react/",
+    "desc": "Distributes Components for hybrid mobile apps with React and Onsen UI"
+  },
+  {
+    "name": "Evergreen",
+    "url": "https://evergreen.segment.com/",
+    "desc": "Design system for React"
+  },
+  {
+    "name": "Rebass",
+    "url": "https://rebassjs.org/",
+    "desc": "React primitive UI components built with styled system"
+  },
+  {
+    "name": "Grommet",
+    "url": "https://v2.grommet.io/",
+    "desc": "mobile first UI component library"
+  },
+  {
+    "name": "Rimble",
+    "url": "https://rimble.consensys.design/",
+    "desc": "React design kit, library and guides"
+  },
+  {
+    "name": "Landing Page Template",
+    "url": "https://github.com/cruip/open-react-template/",
+    "desc": "Open source landing page template for react"
+  },
+  {
+    "name": "Elemental UI",
+    "url": "http://elemental-ui.com/",
+    "desc": "A UI Toolkit for React.js Websites and Apps"
+  },
+  {
+    "name": "Ant Design",
+    "url": "https://ant.design/",
+    "desc": "Open source design React UI library."
+  },
+  {
+    "name": "Bumbag",
+    "url": "https://bumbag.style/",
+    "desc": "Bumbag is a friendly React UI Kit suitable for MVPs or large-scale applications."
+  },
+  {
+    "name": "PRIMEREACT",
+    "url": "https://www.primefaces.org/primereact/",
+    "desc": "The ultimate collection of design-agnostic, flexible and accessible React UI Components"
+  },
+  {
+    "name": "Primer Components",
+    "url": "https://primer.style/components/",
+    "desc": "Primer Components are React components which implement GitHub's Primer Design System"
+  },
+  {
+    "name": "Orbit",
+    "url": "https://orbit.kiwi/",
+    "desc": "Design system and React UI components for travel projects."
+  },
+  {
+    "name": "Base Web",
+    "url": "https://baseweb.design/",
+    "desc": "Base Web provides a robust suite of components out of the box"
+  },
+  {
+    "name": "Backpack UI",
+    "url": "http://lonelyplanet.github.io/backpack-ui/?path=/story/styles--design-tokens",
+    "desc": "Backpack is the Lonely Planet toolset that we use to build front end apps."
+  },
+  {
+    "name": "Reaviz",
+    "url": "https://reaviz.io/",
+    "desc": "Data visualization library for React based on D3"
+  },
+  {
+    "name": "React Suite",
+    "url": "https://rsuitejs.com/en/",
+    "desc": "A suite of React components, sensible UI design, and a friendly development experience."
+  },
+  {
+    "name": "React Spring",
+    "url": "https://www.react-spring.io/",
+    "desc": "Spring-physics based animation library for React applications."
+  },
+  {
+    "name": "Recharts",
+    "url": "http://recharts.org/en-US/",
+    "desc": "A composable charting library built on React components."
+  },
+  {
+    "name": "Vercel UI",
+    "url": "https://github.com/geist-org/react",
+    "desc": "Modern and minimalist React UI library"
+  },
+  {
+    "name": "Framer Motion",
+    "url": "https://www.framer.com/motion/",
+    "desc": "A React library to power production-ready animations."
+  },
+  {
+    "name": "React Spectrum",
+    "url": "https://react-spectrum.adobe.com/react-spectrum/index.html",
+    "desc": "A React implementation of Spectrum, Adobe’s design system."
+  },
+  {
+    "name": "React tsParticles",
+    "url": "https://particles.matteobruni.it/",
+    "desc": "A lightweight React component for creating particles"
+  },
+  {
+    "name": "particles-bg",
+    "url": "https://github.com/lindelof/particles-bg",
+    "desc": "A React particles animation background component"
+  },
+  {
+    "name": "Treact",
+    "url": "https://treact.owaiskhan.me/",
+    "desc": "Gallery of free and modern React templates and UI components developed using TailwindCSS as the front-end framework"
+  },
+  {
+    "name": "OAH-Admin",
+    "url": "https://gatsby-admin.paljs.com/extra-components/progress/",
+    "desc": "a free React admin dashboard template based on Gatsby with oah-ui components and elements package."
+  },
+  {
+    "name": "Carolina Admin Dashboard",
+    "url": "https://demo.uifort.com/carolina-react-admin-dashboard-material-ui-free-demo/LandingPage",
+    "desc": "Free React admin template is powered by Material-UI components framework and features a clean and fresh design following Google's Material Design specifications."
+  },
+  {
+    "name": "Tabler",
+    "url": "https://github.com/tabler/tabler-react",
+    "desc": "Tabler is a free React admin dashboard template ideal for any kind of back-end web application."
+  },
+  {
+    "name": "Sha-el-design",
+    "url": "https://github.com/sha-el/sha-el-design",
+    "desc": "React components for easier customization and smooth development flow."
+  },
+  {
+    "name": "React-WeUI",
+    "url": "https://weui.github.io/react-weui/docs/#/react-weui/docs/page/0/articles/0",
+    "desc": "React-WeUI made from our love of React and WeChat's WeUI Design."
+  },
+  {
+    "name": "Supabase UI",
+    "url": "https://ui.supabase.io/",
+    "desc": "An open-source UI component library inspired by Tailwind and AntDesign."
+  },
+  {
+    "name": "Ring UI",
+    "url": "https://github.com/JetBrains/ring-ui",
+    "desc": "A collection of JetBrains Web UI components."
+  },
+  {
+    "name": "React95",
+    "url": "https://react95.io/",
+    "desc": "Refreshed Windows 95 style UI components for your React app."
+  },
+  {
+    "name": "Reakit",
+    "url": "https://reakit.io/",
+    "desc": "Reakit is a lower level component library for building accessible high level UI libraries, design systems and applications with React."
+  },
+  {
+    "name": "Zent",
+    "url": "https://github.com/youzan/zent",
+    "desc": "A collection of essential UI components written with React."
+  },
+  {
+    "name": "Gestalt",
+    "url": "https://github.com/pinterest/gestalt",
+    "desc": "A set of React UI components that supports Pinterest’s design language."
+  },
+  {
+    "name": "xstyled",
+    "url": "https://xstyled.dev/",
+    "desc": "A CSS-in-JS framework built for React with props based utilities like display, fontSize or rotate."
+  },
+  {
+    "name": "@use-gesture",
+    "url": "https://github.com/pmndrs/use-gesture",
+    "desc": "Bread n butter utility for component-tied mouse/touch gestures in React."
+  },
+  {
+    "name": "React Rainbow",
+    "url": "https://react-rainbow.io/",
+    "desc": "React Rainbow is a collection of components that will reliably help you build your application in a snap."
+  },
+  {
+    "name": "Choc UI",
+    "url": "https://choc-ui.tech/",
+    "desc": "Choc UI is a set of accessible and reusable components that are commonly used in web applications."
+  },
+  {
+    "name": "Elementz",
+    "url": "https://elementz.style/",
+    "desc": "A React Component library for buliding modern applications easily & quickly."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Svelte Material UI",
+    "url": "https://sveltematerialui.com/",
+    "desc": "UI library for Svelte based on Material Design"
+  },
+  {
+    "name": "SvelteStrap",
+    "url": "https://bestguy.github.io/sveltestrap/",
+    "desc": "UI library for Svelte based on the Bootstrap framework"
+  },
+  {
+    "name": "Svelte Flat UI",
+    "url": "https://svelteui.js.org/",
+    "desc": "UI library for Svelte based on Flat Design"
+  },
+  {
+    "name": "Svelte Particles",
+    "url": "https://particles.matteobruni.it/",
+    "desc": "A lightweight Svelte component for creating particles"
+  }
+]

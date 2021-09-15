@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Behance",
+    "url": "https://www.behance.net/",
+    "desc": "Design projects featured by different creators"
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com/",
+    "desc": "Design projects featured by different creators"
+  },
+  {
+    "name": "Codewell",
+    "url": "https://www.codewell.cc/",
+    "desc": "Practice your HTML, CSS, and Javascript skills on real world design templates"
+  },
+  {
+    "name": "Foxyapps",
+    "url": "https://foxyapps.co/",
+    "desc": "Design inspiration from the best mobile app designs"
+  },
+  {
+    "name": "Httpster",
+    "url": "https://httpster.net/2020/apr/",
+    "desc": "Showcases websites made by people from all over the world"
+  },
+  {
+    "name": "Inspofinds",
+    "url": "https://inspofinds.com/",
+    "desc": "Latest design work from designers and the design community"
+  },
+  {
+    "name": "Design Notes",
+    "url": "https://www.designnotes.co/",
+    "desc": "Free online resource library for product designers"
+  },
+  {
+    "name": "Land Book",
+    "url": "https://land-book.com/",
+    "desc": "Displays a large collection of websites to help find inspiration"
+  },
+  {
+    "name": "Frontend Mentor",
+    "url": "https://www.frontendmentor.io/",
+    "desc": "Real-world UI Challenges using HTML, CSS and Javascript"
+  },
+  {
+    "name": "Awwwards",
+    "url": "https://www.awwwards.com/",
+    "desc": "A website that rate and collects the best websites in the world in UI"
+  },
+  {
+    "name": "Codrops",
+    "url": "https://tympanus.net/codrops/",
+    "desc": "A website that collects the best UI ideas and patterns and make tutorials of it"
+  },
+  {
+    "name": "SaaS Landing Page",
+    "url": "https://saaslandingpage.com/",
+    "desc": "Discover the best landing page examples created by top-class SaaS companies"
+  },
+  {
+    "name": "Saaspages.xyz",
+    "url": "https://saaspages.xyz/",
+    "desc": "A collection of the best landing pages with a focus on copywriting and design."
+  },
+  {
+    "name": "UI Movement",
+    "url": "https://uimovement.com/",
+    "desc": "UI Movement is a community of design enthusiasts who share and discuss the most interesting and unique UI designs"
+  },
+  {
+    "name": "lapa ninja",
+    "url": "https://www.lapa.ninja/",
+    "desc": "Best landing page inspiration"
+  },
+  {
+    "name": "Freefrontend",
+    "url": "https://freefrontend.com/",
+    "desc": "Free frontend design from css html and javascript. latest work some design part"
+  },
+  {
+    "name": "Webframe",
+    "url": "https://webframe.xyz/",
+    "desc": "Discover and be inspired by beautiful webapp designs"
+  },
+  {
+    "name": "Collect UI",
+    "url": "http://collectui.com/",
+    "desc": "Daily inspiration collected from daily ui archive and beyond. Handpicked, and updating daily."
+  },
+  {
+    "name": "Graphic Burger",
+    "url": "https://graphicburger.com/",
+    "desc": "A site offering a free and pain icons, mock-ups, Ui-Kits, text effect and backgrounds.  This site's resource are a mix of free and paid resources. Icons is on a mix of PNG, SVG, EPS and Sketch Format. Some resources are confusing as there are sponsored content in the middle of the free sets."
+  },
+  {
+    "name": "Really Good Emails",
+    "url": "https://reallygoodemails.com/",
+    "desc": "A site offering users a ton of company e-mails from customer service to marketing."
+  },
+  {
+    "name": "Free Design Resource",
+    "url": "https://freedesignresources.net/",
+    "desc": "A site offering fonts, mockups, templates graphics and ui kits."
+  },
+  {
+    "name": "Site Inspire",
+    "url": "https://www.siteinspire.com/",
+    "desc": "siteInspire is a showcase of the finest web and interactive design."
+  },
+  {
+    "name": "Web Design Inspiration",
+    "url": "https://www.webdesign-inspiration.com/",
+    "desc": "A site for web design inspiration, updated daily."
+  },
+  {
+    "name": "NavNav",
+    "url": "https://navnav.co/",
+    "desc": "Responsive navigation examples"
+  },
+  {
+    "name": "Calltoidea",
+    "url": "https://www.calltoidea.com/",
+    "desc": "Collection of different web Components for inspiration."
+  },
+  {
+    "name": "MediaQueri.es",
+    "url": "https://mediaqueri.es/",
+    "desc": "A collection of inspirational websites using media queries and responsive web design"
+  },
+  {
+    "name": "Mulzli Search",
+    "url": "https://search.muz.li/",
+    "desc": "Search engine for design inspiration"
+  },
+  {
+    "name": "DeviantArt",
+    "url": "https://www.deviantart.com/",
+    "desc": "Access to 370 million pieces of art for inspiration."
+  },
+  {
+    "name": "Design your way",
+    "url": "https://www.designyourway.net/blog/web-and-mobile-design/",
+    "desc": "Collection of different Web and Mobile Designs"
+  },
+  {
+    "name": "Humans.fyi",
+    "url": "https://humans.fyi/",
+    "desc": "A collection of brilliant personal websites filterable by colors and web technologies used in each website."
+  },
+  {
+    "name": "SiteSee",
+    "url": "https://sitesee.co/",
+    "desc": "A curated gallery of beautiful and modern websites."
+  },
+  {
+    "name": "UI Garage",
+    "url": "https://uigarage.net/",
+    "desc": "Daily handpicked UI inspiration & patterns."
+  },
+  {
+    "name": "ecomm.design",
+    "url": "https://ecomm.design/",
+    "desc": "eCommerce Website Design Gallery & Tech Inspiration."
+  },
+  {
+    "name": "Design Nominees",
+    "url": "https://www.designnominees.com/",
+    "desc": "A showcase of awarding and showcasing the best websites, apps and Games."
+  },
+  {
+    "name": "Design Vault",
+    "url": "https://designvault.io/",
+    "desc": "A library of screenshots and patterns from real world digital products"
+  }
+]

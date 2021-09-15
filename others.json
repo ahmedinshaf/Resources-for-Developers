@@ -1,0 +1,207 @@
+[
+  {
+    "name": "everysize.kibalabs.com",
+    "url": "https://everysize.kibalabs.com/",
+    "desc": "Check your awesome responsive webpage looks great in every size"
+  },
+  {
+    "name": "Devhints.io",
+    "url": "https://devhints.io/",
+    "desc": "This is a modest collection of cheatsheets on Internet"
+  },
+  {
+    "name": "The Web Toolbox",
+    "url": "https://thewebtoolbox.cc/",
+    "desc": "A collection of handy, free-to-use tools for web developers, programmers and designers."
+  },
+  {
+    "name": "WebDevTrick",
+    "url": "https://webdevtrick.com/",
+    "desc": "A famous blog for many amazing HTML, CSS, JQuery designs."
+  },
+  {
+    "name": "css-tricks",
+    "url": "https://css-tricks.com/",
+    "desc": "Free CSS tricks and some unique ideas for beginners and advanced"
+  },
+  {
+    "name": "Material Design Resizer",
+    "url": "https://material.io/resources/resizer/",
+    "desc": "An interactive viewer that helps designers test material design breakpoints across desktop, mobile, and tablet"
+  },
+  {
+    "name": "Nodesign.dev",
+    "url": "https://nodesign.dev/",
+    "desc": "A collection of tools for developers who have little to no artistic talent"
+  },
+  {
+    "name": "A11ygator",
+    "url": "https://a11ygator.chialab.io/",
+    "desc": "A web tool to scan websites against WCAG rules"
+  },
+  {
+    "name": "Commitizen",
+    "url": "http://commitizen.github.io/cz-cli/",
+    "desc": "Command line tool to formatted commit messages according to the standards"
+  },
+  {
+    "name": "CleanCss",
+    "url": "https://www.cleancss.com/",
+    "desc": "Tool For Code Formatter, Minifier, File Converter"
+  },
+  {
+    "name": "Tiny helpers",
+    "url": "https://tiny-helpers.dev/",
+    "desc": "A collection of free single-purpose online tools for web developers"
+  },
+  {
+    "name": "CSS Ribbon Generator",
+    "url": "https://www.cssportal.com/css-ribbon-generator/",
+    "desc": "This generator will assist in creating a pure CSS corner ribbon."
+  },
+  {
+    "name": "Can I Use",
+    "url": "https://caniuse.com/",
+    "desc": "Check cross-browser compatibility of frontend technologies."
+  },
+  {
+    "name": "kangax-js-compat-table",
+    "url": "https://kangax.github.io/compat-table/es6/",
+    "desc": "Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile)."
+  },
+  {
+    "name": "mydevice.io",
+    "url": "https://www.mydevice.io/",
+    "desc": "Most commonly used device resolutions including phones and tablets"
+  },
+  {
+    "name": "Codepen",
+    "url": "https://codepen.io/",
+    "desc": "Build, test and discover frontend code."
+  },
+  {
+    "name": "Responsively",
+    "url": "https://manojvivek.github.io/responsively-app/",
+    "desc": "A tool for designers and frontend developers to design and debug their in all platforms with ease"
+  },
+  {
+    "name": "html2pdf.js",
+    "url": "https://ekoopmans.github.io/html2pdf.js/",
+    "desc": "Client-side HTML-to-PDF rendering using pure JS."
+  },
+  {
+    "name": "CSS Reference",
+    "url": "https://cssreference.io/",
+    "desc": "A collection of all css properties and definitions in detail"
+  },
+  {
+    "name": "Critical Path CSS Generator",
+    "url": "https://www.sitelocity.com/critical-path-css-generator",
+    "desc": "Generate critical css for your web pages"
+  },
+  {
+    "name": "SVG Gobbler",
+    "url": "https://github.com/rossmoody/svg-gobbler",
+    "desc": "Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG."
+  },
+  {
+    "name": "shortcode.dev",
+    "url": "https://shortcode.dev/",
+    "desc": "A collection of useful snippets and code examples for HTML, CSS, JavaScript, Node, Artisan, Blade and more."
+  },
+  {
+    "name": "PlayCode",
+    "url": "https://playcode.io/",
+    "desc": "Javascript playground."
+  },
+  {
+    "name": "All The Tags",
+    "url": "https://allthetags.com/",
+    "desc": "All HTML tags briefly explained."
+  },
+  {
+    "name": "Vue Telemetry",
+    "url": "https://vuetelemetry.com/",
+    "desc": "Reveal the Vue plugins and technology stack powering any website or explore a database of 5500+ websites."
+  },
+  {
+    "name": "Grid.js",
+    "url": "https://gridjs.io/",
+    "desc": "Grid.js is a Free and open-source HTML table plugin written in TypeScript. It works with most JavaScript frameworks, including React, Angular, Vue and VanillaJs."
+  },
+  {
+    "name": "Gerillass",
+    "url": "https://gerillass.com/",
+    "desc": "Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs."
+  },
+  {
+    "name": "Sketchize",
+    "url": "https://www.sketchize.com/",
+    "desc": "Sketchize is built for UI/UX Designers to help them design lovely apps for mobile, tablet, and desktop devices."
+  },
+  {
+    "name": "{CSS}Portal",
+    "url": "https://www.cssportal.com/",
+    "desc": "CSSPortal is home to a large range of CSS generators, tools and resources."
+  },
+  {
+    "name": "DevDocs",
+    "url": "https://devdocs.io/",
+    "desc": "DevDocs combines multiple API documentations in a fast, organized, and searchable interface."
+  },
+  {
+    "name": "papersizes",
+    "url": "https://papersizes.io/",
+    "desc": "The best resource for International Paper Sizes, Dimensions & Formats."
+  },
+  {
+    "name": "Match Stick",
+    "url": "https://matchstick.xyz/",
+    "desc": "Visually compare your code and designs. Compare your mockups with your live website to pinpoint any missing details."
+  },
+  {
+    "name": "flexboxfroggy",
+    "url": "http://flexboxfroggy.com/",
+    "desc": "Help Froggy and friends by writing CSS code!"
+  },
+  {
+    "name": "Designbetter Books",
+    "url": "https://www.designbetter.co/books",
+    "desc": "Essential reading on the practices that propel the best design teams forward."
+  },
+  {
+    "name": "OverAPI",
+    "url": "https://overapi.com/",
+    "desc": "Collection Of All Cheat Sheets."
+  },
+  {
+    "name": "Pageclip",
+    "url": "https://pageclip.co/",
+    "desc": "A server for your Static HTML forms"
+  },
+  {
+    "name": "Shields",
+    "url": "https://shields.io/",
+    "desc": "Create badges with your own customization."
+  },
+  {
+    "name": "williamsharkey",
+    "url": "http://williamsharkey.com/Shapes.html",
+    "desc": "Random SVG Graphic Generator"
+  },
+  {
+    "name": "Bootstrap CheatSheet",
+    "url": "https://bootstrap-cheatsheet.themeselection.com/",
+    "desc": "An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need."
+  },
+  {
+    "name": "QR Code Generator",
+    "url": "https://markodenic.com/tools/qr-code-generator/",
+    "desc": "Use QR Code Generator to easily create a QR code for your project."
+  },
+  {
+    "name": "PapersDB",
+    "url": "https://papersdb.com/",
+    "desc": "The Biggest Paper Database with Sizes, Dimensions and Formats in Metric and Imperial units."
+  }
+]

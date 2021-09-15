@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Magnus UI",
+    "url": "https://magnus-ui.com/",
+    "desc": "Magnus UI is the ultimate UI framework that helps you in building consistent user interfaces effortlessly in react native"
+  },
+  {
+    "name": "React Native UI Lib",
+    "url": "https://wix.github.io/react-native-ui-lib/",
+    "desc": "React Native UI (RNUI) is a UI Toolset & Components Library for React Native from Wix"
+  },
+  {
+    "name": "React Native Paper",
+    "url": "https://reactnativepaper.com/",
+    "desc": "React Native Paper is a high-quality, standard-compliant Material Design library that has you covered in all major use-cases"
+  },
+  {
+    "name": "UI Kitten",
+    "url": "https://akveo.github.io/react-native-ui-kitten/",
+    "desc": "UI Kitten is React Native framework for creating stunning cross-platform mobile applications. Design system based, brings your product from MVP to enterprise."
+  },
+  {
+    "name": "React Native Elements",
+    "url": "https://reactnativeelements.com/",
+    "desc": "Cross Platform React Native UI Toolkit that provides an all-in-one UI kit for creating apps in react native."
+  },
+  {
+    "name": "NativeBase",
+    "url": "https://nativebase.io/",
+    "desc": "Essential cross-platform UI components for React Native & Vue Native."
+  },
+  {
+    "name": "Shoutem UI",
+    "url": "https://shoutem.github.io/docs/ui-toolkit/introduction",
+    "desc": "Shoutem UI toolkit enables you to build professionally looking React Native apps with ease."
+  },
+  {
+    "name": "tailwind-rn",
+    "url": "https://github.com/vadimdemedes/tailwind-rn",
+    "desc": "Use Tailwind CSS in React Native projects."
+  },
+  {
+    "name": "Ant Design Mobile RN",
+    "url": "https://rn.mobile.ant.design/",
+    "desc": "An Ant design based configurable Mobile UI component library based on React Native."
+  },
+  {
+    "name": "SnackUI",
+    "url": "https://github.com/snackui/snackui",
+    "desc": "SnackUI is a UI Kit for React Native + react-native-web that's much faster rocket with an optimizing compiler."
+  },
+  {
+    "name": "Moti",
+    "url": "https://moti.fyi/",
+    "desc": "Moti is the universal animation package for React Native"
+  }
+]

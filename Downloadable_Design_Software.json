@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Gimp",
+    "url": "https://www.gimp.org/",
+    "desc": "Free & open source image editor similar to Photoshop"
+  },
+  {
+    "name": "Gravit Designer",
+    "url": "https://www.designer.io/en/",
+    "desc": "Free full-featured vector graphic design app that works on ALL platforms"
+  },
+  {
+    "name": "Blender",
+    "url": "https://www.blender.org/download/",
+    "desc": "Open source, free animation, 3D modeling, etc."
+  },
+  {
+    "name": "Raw Therapee",
+    "url": "https://rawtherapee.com/",
+    "desc": "Cross-platform raw image processing program"
+  },
+  {
+    "name": "Be Funky",
+    "url": "https://www.befunky.com/features/graphic-designer/",
+    "desc": "Online design program"
+  },
+  {
+    "name": "Krita",
+    "url": "https://krita.org/en/download/krita-desktop/",
+    "desc": "Sketching and painting program designed for digital artists"
+  },
+  {
+    "name": "Pencil Project",
+    "url": "https://pencil.evolus.vn/",
+    "desc": "GUI prototyping software"
+  },
+  {
+    "name": "Inkscape",
+    "url": "https://inkscape.org/",
+    "desc": "Powerful free design tool"
+  },
+  {
+    "name": "Adobe XD",
+    "url": "https://www.adobe.com/products/xd.html",
+    "desc": "Free design tool from Adobe"
+  },
+  {
+    "name": "Shapes.so",
+    "url": "https://shape.so/pricing",
+    "desc": "Icons that can be used as code in your projects"
+  },
+  {
+    "name": "Lunacy",
+    "url": "https://icons8.com/lunacy",
+    "desc": "Sketch for Windows"
+  },
+  {
+    "name": "InVision Studio",
+    "url": "https://www.invisionapp.com/studio",
+    "desc": "Free screen designing tool from InVision"
+  },
+  {
+    "name": "Darktable",
+    "url": "https://www.darktable.org/",
+    "desc": "Free & Open source photography workflow application and raw developer"
+  },
+  {
+    "name": "Inpixio photo Editor",
+    "url": "https://www.inpixio.com/free-photo-editor",
+    "desc": "Free Photo Editor: For windows only"
+  },
+  {
+    "name": "Colorpicker",
+    "url": "https://colorpicker.fr/",
+    "desc": "Open Source colors software: Retrieve, manipulate and store your colors easily!"
+  }
+]
